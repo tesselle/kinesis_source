@@ -1,0 +1,12 @@
+app:
+  name: "SOURCE"
+  version: "1.0.0"
+
+build:
+  type: "r-shiny"
+  runtime_strategy: "system"
+  platforms: [linux]
+
+window:
+  width: 1100
+  height: 750
